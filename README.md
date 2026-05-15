@@ -2,10 +2,10 @@
 
 A premium, responsive personal portfolio website built with modern web technologies and a focus on high-quality aesthetics and cloud development expertise.
 
-## 🚀 Live Demo
+## Live Demo
 **Live URL:** [https://gowrishjanapareddy.github.io/Build-a-Personal-Portfolio-Website-with-Modern-UI-and-Animations/]
 
-## 🛠 Technology Stack
+## Technology Stack
 - **Structure**: HTML5 (Semantic elements)
 - **Styling**: Vanilla CSS3 (Custom design system, Flexbox, CSS Grid)
 - **Interactivity**: Vanilla JavaScript (ES6+)
@@ -13,7 +13,7 @@ A premium, responsive personal portfolio website built with modern web technolog
 - **Fonts**: Google Fonts (Outfit & Space Grotesk)
 - **Animations**: CSS Transitions & Intersection Observer API
 
-## ✨ Key Features
+## Key Features
 - **Modern UI/UX**: Dark-themed aesthetic with cyan and purple accents.
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop views.
 - **Dynamic Content**:
@@ -24,7 +24,7 @@ A premium, responsive personal portfolio website built with modern web technolog
 - **Performance**: High Lighthouse scores due to lightweight static architecture and optimized assets.
 - **Typewriter Effect**: Engaging introduction animation in the hero section.
 
-## 💻 Running Locally
+## Running Locally
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Edge, etc.)
@@ -45,7 +45,7 @@ A premium, responsive personal portfolio website built with modern web technolog
      ```
    - Then navigate to `http://localhost:8000` in your browser.
 
-## 📁 Project Structure
+## Project Structure
 ```text
 ├── assets/
 │   ├── css/
