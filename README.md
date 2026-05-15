@@ -56,11 +56,4 @@ A premium, responsive personal portfolio website built with modern web technolog
 ├── index.html             # Main entry point
 └── README.md              # Project documentation
 ```
-
-## 👤 Author
-**Janapareddy Dyns Gowrish**
-- [LinkedIn](https://www.linkedin.com/in/dyns-gowrish-j-034216291)
-- [GitHub](https://github.com/gowrishjanapareddy)
-
 ---
-*Created for the Personal Portfolio Website Challenge.*
