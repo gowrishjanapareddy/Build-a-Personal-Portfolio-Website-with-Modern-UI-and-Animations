@@ -3,7 +3,7 @@
 A premium, responsive personal portfolio website built with modern web technologies and a focus on high-quality aesthetics and cloud development expertise.
 
 ## Live Demo
-**Live URL:** [https://gowrishjanapareddy.github.io/Build-a-Personal-Portfolio-Website-with-Modern-UI-and-Animations/]
+**Live URL:** https://gowrishjanapareddy.github.io/Build-a-Personal-Portfolio-Website-with-Modern-UI-and-Animations/
 
 ## Technology Stack
 - **Structure**: HTML5 (Semantic elements)
